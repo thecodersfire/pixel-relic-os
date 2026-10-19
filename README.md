@@ -24,3 +24,9 @@ The `pixel-relic.svg` wallpaper is original. Pixel Relic OS is an independent Ub
 
 See [FEATURES.md](FEATURES.md) for three local tools included for retro gaming.
 
+
+The installer also includes three purpose-specific applications: **Heroic Games Launcher, Lutris, Bottles**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Heroic Games Launcher, Lutris, Bottles**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Heroic Games Launcher, Lutris, Bottles**. See [FEATURES.md](FEATURES.md).
